@@ -1,0 +1,8 @@
+name: Expirimentals
+version: '${version}'
+main: bazzeman.expirimentals.Expirimentals
+api-version: '1.20'
+load: STARTUP
+authors: [Bas Pennings]
+description: An expirimental plugin by Bas Pennings.
+website: https://www.linkedin.com/in/bas-pennings-8899462a2/
